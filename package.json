@@ -5,7 +5,8 @@
     "main": "index.js",
     "license": "MIT",
     "scripts": {
-        "generate": "node dataGenerator.js"
+        "generate": "node dataGenerator.js",
+        "usergenerator": "node userGenerator.js"
     },
     "dependencies": {
         "@faker-js/faker": "^7.6.0",
